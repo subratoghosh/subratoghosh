@@ -44,8 +44,6 @@ I am a Computer Science student at **Sardar Vallabhbhai National Institute of Te
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=divyansh2102t-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyansh2102t-dev&theme=dark)
 
 ---
