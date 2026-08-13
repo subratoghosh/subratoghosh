@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-  <!-- Replace # with your actual profile links -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/subrato-ghosh-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Subratog/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/subratog840"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://github.com/subratoghosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
@@ -99,16 +98,14 @@ I'm a **Computer Science Engineering student** who enjoys breaking down complex 
 
 ## 📊 GitHub Stats
 
-<!-- Replace 'your-github-username' below with your actual GitHub username -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subratoghosh&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratoghosh&show_icons=true&theme=dark)
 
 ---
 
 <div align="center">
 
 ### 👁️ Profile Views
-<!-- Replace 'your-github-username' below with your actual GitHub username -->
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge&base=100)
+![Visitor Count](https://komarev.com/ghpvc/?username=subratoghosh&color=blue&style=for-the-badge&base=0)
 
 </div>
